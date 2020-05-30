@@ -6,6 +6,7 @@ class CheckEvenOdd
   {
     int num;
     System.out.println("Enter an Integer number:");
+    System.out.println("HELLO");
 
     //The input provided by user is stored in num
     Scanner input = new Scanner(System.in);
